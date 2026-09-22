@@ -1,2 +1,3 @@
-# sprint3-python-project
-Sprint 3 Python Foundations - Video Game Sales Analysis
+Video Game Sales Analysis
+This project analyzes video game sales data to explore trends in the gaming industry.
+Dataset source: Video Game Sales dataset
